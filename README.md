@@ -1,2 +1,2 @@
-# mincraft-oython-version
+# mincraft-python-version
 a game
